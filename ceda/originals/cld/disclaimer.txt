@@ -1,0 +1,8 @@
+Disclaimer
+==========
+
+The COWS Web Processing Service (WPS) is a generic tool for generating output data from a range of processes represented in computer code. Whilst every effort is made to ensure that the service delivers appropriate and correct outputs the authors, and the service manager, hold no liability for any results produced using service. Individuals accessing these WPS processes do so a their own risk. You are strongly advised to validate your outputs using other tools to ensure the integrity of the process that has been performed.
+
+
+By using the CEDA WPS you are agreeing to the <a href="http://www.ceda.ac.uk/disclaimer/">Terms and Conditions</a> for data and information provided by the NERC/BADC.
+
